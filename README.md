@@ -24,22 +24,35 @@ Data Description
 The dataset includes the following columns:
 
 property_type: Type of property (e.g., Entire rental unit, Entire home, Private room in home, Hotel room).
+
 room_type: Type of room (e.g., Entire home/apt, Private room, Shared room).
+
 price: Listing price.
+
 availability_30, availability_60, availability_90, availability_365: Availability metrics for the next 30, 60, 90, and 365 days.
+
 reviews_per_month: Number of reviews received per month.
+
 review_scores: Guest satisfaction scores.
 
 Analysis Summary
+
 Key Findings
+
 Pricing Trends: Hotel rooms had the highest average price, followed by entire homes/apartments, private rooms, and shared rooms.
+
 Availability Patterns: The availability of listings varied significantly across different property types, with entire rental units showing the highest availability.
+
 Guest Satisfaction: Satisfaction scores were analyzed across different property types to identify patterns and trends.
+
 Correlation Analysis: Positive correlation was found between short-term and long-term availability metrics.
 
 Actionable Recommendations
+
 Optimize Pricing: Consider dynamic pricing strategies based on property type and availability patterns to maximize revenue.
+
 Improve Guest Satisfaction: Focus on enhancing the guest experience in property types with lower satisfaction scores.
+
 Strategic Listings: Increase the number of high-demand property types in key geographic areas to capture market share.
 
 
