@@ -5,12 +5,19 @@ Project Overview
 This project provides a comprehensive analysis of short-term rental market trends, focusing on guest satisfaction, property types, and availability patterns. By utilizing various visualization techniques and statistical methods, this analysis aims to uncover insights that can help optimize pricing strategies, improve guest satisfaction, and understand market dynamics.
 
 Key Features
+
 Treemap Visualization: Displays the distribution of guest satisfaction scores across different property types and segments.
+
 Heatmap: Highlights the correlation between various factors such as availability metrics and review scores.
+
 Interactive Map: Shows the concentration of listings for each property and room type.
+
 Bubble Chart: Visualizes key metrics and trends within the dataset.
+
 Box Plot: Compares review scores across different property types.
+
 Word Cloud: Visualizes common themes in guest reviews.
+
 Regression Analysis: Examines the impact of various factors on guest satisfaction scores.
 
 Data Description
