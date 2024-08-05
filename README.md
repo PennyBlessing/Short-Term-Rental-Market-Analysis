@@ -40,7 +40,6 @@ Availability Patterns: The availability of listings varied significantly across 
 
 Guest Satisfaction: Satisfaction scores were analyzed across different property types to identify patterns and trends.
 
-Correlation Analysis: Positive correlation was found between short-term and long-term availability metrics.
 
 Actionable Recommendations
 
