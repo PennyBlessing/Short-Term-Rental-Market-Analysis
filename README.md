@@ -14,11 +14,6 @@ Interactive Map: Shows the concentration of listings for each property and room 
 
 Bubble Chart: Visualizes key metrics and trends within the dataset.
 
-Box Plot: Compares review scores across different property types.
-
-Word Cloud: Visualizes common themes in guest reviews.
-
-Regression Analysis: Examines the impact of various factors on guest satisfaction scores.
 
 Data Description
 The dataset includes the following columns:
